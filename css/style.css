@@ -100,7 +100,7 @@ button{
     font-size: 15px;
     transition: transform 0.25s ease-in-out;
 }
-.payment-process:hover{
+.payment-process:hover, .payment-process:focus{
     transform: scale(1.07);
 }
 
