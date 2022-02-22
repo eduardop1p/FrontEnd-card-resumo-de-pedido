@@ -12,7 +12,7 @@ body{
     align-items: center;
     justify-content: center;
     width: 100%;
-    height: 125vh;
+    height: 100vh;
     background-color: hsl(225, 100%, 94%);
 }
 
@@ -115,12 +115,6 @@ button{
 }
 .cancel-order:hover{
     color: hsl(245, 75%, 52%);
-}
-
-@media (max-width: 1000px){
-    body{
-        height: 100vh;
-    }
 }
 
 @media (max-width: 600px){
